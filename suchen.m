@@ -1,4 +1,4 @@
-function [ pe,sa] = suchen( Person, Satza)%, Wort, Phonem
+function [ pe,sa, wo, ph] = suchen( Person, Satza, Wort, Phonem)
 %UNTITLED Summary of this function goes here
 %   Detailed explanation goes here
 
