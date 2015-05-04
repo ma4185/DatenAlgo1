@@ -1,6 +1,6 @@
 #Programmieraufgabe zum 05.05.2015
-WP Daten und Algorithmen
-Jade Hochschule Oldenburg
+         -WP Daten und Algorithmen
+         -Jade Hochschule Oldenburg
 
 ##Autoren  
           * Hanna Möhle (6006825)
