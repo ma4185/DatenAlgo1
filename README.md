@@ -22,7 +22,8 @@
 
 ##Benutzungsbeispiel
          Im Command Window wird die Datei suchen3.m mit vier möglichen Eingabeparametern aufgerufen.
-         Falls kein Eingabeparameter gewünscht wird, muss ein leere String eingegeben werden, welches aus folgenden Zeichen besteht: **''**
+         Falls kein Eingabeparameter gewünscht wird, muss ein leere String eingegeben werden, welches
+         aus folgenden Zeichen besteht **''**.
          [Ausgabe] =suchen3( '', 'she', '', '');
          % suchen3( Phonem, Wort, Satz, Person
          
