@@ -27,5 +27,5 @@
          [Ausgabe] =suchen3( '', 'she', '', '');
          % suchen3( Phonem, Wort, Satz, Person
          
-
+##Änderungshistorie
 
