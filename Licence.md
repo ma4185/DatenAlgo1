@@ -1,5 +1,6 @@
-<one line to give the program's name and a brief idea of what it does.>
-    Copyright (C) <2015>  <Hanna Möhle, Nora Jürgens, Maren Osterloh>
+# Programm **suchen.m** can search a database to words, sentenses, persons or phonemes.
+    ## Copyright (C) <2015>  
+    ### Hanna Möhle, Nora Jürgens, Maren Osterloh
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
