@@ -24,20 +24,17 @@
          Im Command Window wird die Datei suchen.m mit vier möglichen Eingabeparametern aufgerufen.
          Falls kein Eingabeparameter gewünscht wird, muss ein leere String eingegeben werden, welches
          aus folgenden Zeichen besteht ''.
-         Wird für alle vier Parameter ein leerer String eingegeben, werden alle Dateien ausgegeben. 
          Die verwendeten Dateien sind: allsenlist.txt und allphonelist.txt.
          
-         In dem 'TestSkript' sind verschiedene Beispiele eingegeben, die ein- und auskommentiert werden
-         können, sodass durch Ausführen von 'Testskript' die Funktion suchen.m abgerufen wird.
-         
+         In 'TestSkript.m' sind verschiedene Beispiele eingegeben, die e undin- auskommentiert werden
+         können, sodass durch Ausführen von 'Testskript.m' die Funktion 'suchen.m' abgerufen wird.
+       
          Beispiel:
-         [Ausgabe] =suchen3( '', 'she', '', '');
-         % suchen3( Phonem, Wort, Satz, Person
-         datei
-         satze
-         In diesem Fall gibt das Programm
+         [Datei, Saetze] =suchen3( '', 'she', '', '');
+         % suchen( Satz, Wort, Person, Phonem)
+         Datei
+         Saetze
 
-         
 ###mögliche Eingabewerte
          - für die Personen können mcpm, fvmh, marc, faem, madc, falk, maeb, falr, mbgt, ftlg, mbma, fapb, madd,
            fblv, mbcg, fbcg, um einen positives Suchergebnis zu bekommen
@@ -55,6 +52,4 @@
          7. suchen3.m Version 2.0 (04.05.2015)
          8. suchen.m (05.05.2015)
          
-##weitere Ideen
-         - 
          
