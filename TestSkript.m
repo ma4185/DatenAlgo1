@@ -1,6 +1,5 @@
 % Script to test the function suchen.m 
 % Author: Nora Jürgens, Hanna Moehle, Maren Osterloh (C)
-% Version History:
 
 clear;
 close all;
@@ -23,7 +22,7 @@ clc;
 %[Datei,Saetze]=suchen('','terms','fvmh','ix');
 
 % Eingabe einer Kombination aller Eingabeparameter
-% [Datei,Saetze]=suchen('she had your dark suit in greasy wash water all year','she','mcpm','sh');
+%[Datei,Saetze]=suchen('she had your dark suit in greasy wash water all year','she','mcpm','sh');
 
 % Eingabe von mindestens einem Wort, welches nicht in den Dateien vorkommt
 %[Datei,Saetze]=suchen('please shorten this skirt for joyce ','','Dateiname','ix');
@@ -39,13 +38,8 @@ clc;
 Datei %Ausgabe der Dateinamen
 Saetze %Ausgabe ganze Sätze
 
-% disp('Es wurde keine Übereinstimmung gefunden.')
-% disp('Entweder ist eins der Eingabeparameter in keiner Datei enthalten,')  
-% disp('oder bei Kombination mehrerer Eingabeparameter gibt es KEINE Übereinstimmung!')
-% disp('Bitte überprüfen Sie die Eingabe.')
-
 %--------------------Licence ---------------------------------------------
-%    <one line to give the program's name and a brief idea of what it does.>
+%    <TestScript.m to test the function suchen.m >
 %    Copyright (C) <2015>  <Nora Jürgens, Hanna Möhle, Maren Osterloh>
 % 
 %    This program is free software: you can redistribute it and/or modify
