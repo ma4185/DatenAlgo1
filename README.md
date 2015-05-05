@@ -3,8 +3,8 @@
          Jade Hochschule Oldenburg
 
 ##Autoren  
-          - Hanna Möhle (6006825)
           - Nora Jürgens (6006799)
+          - Hanna Möhle (6006825)
           - Maren Osterloh (6007218)
 
 ##Aufgabenstellung
