@@ -17,15 +17,16 @@
          2. Datenbank (TIMIT MIT)
 
 ##Speicherort
-         Der Code ... liegt in dem Ordner TIMIT MIT.
+         Der Code suchen.m muss in dem Ordner TIMIT MIT abgelegt werden.
          Die zu untersuchenden Dateien liegen ebenfalls in diesem Ordner.
 
 ##Benutzungsbeispiel
-         Im Command Window wird die Datei suchen3.m mit vier möglichen Eingabeparametern aufgerufen.
+         Im Command Window wird die Datei suchen.m mit vier möglichen Eingabeparametern aufgerufen.
          Falls kein Eingabeparameter gewünscht wird, muss ein leere String eingegeben werden, welches
          aus folgenden Zeichen besteht ''.
          [Ausgabe] =suchen3( '', 'she', '', '');
          % suchen3( Phonem, Wort, Satz, Person
          
 ##Änderungshistorie
+         siehe Kommentation in GitHub
 
